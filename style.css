@@ -1,0 +1,15 @@
+* {
+  margin:0;
+  padding:0;
+}
+.my-style {
+  font-size: 25px;
+  background-color: #1B9C85;
+  color: #643843;
+  padding-left: 570px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin:20px;
+  display: block;
+}
